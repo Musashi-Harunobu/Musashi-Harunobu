@@ -26,7 +26,6 @@
 
 <div align="left">
   <a href="https://t.me/karen_shax" target="_blank">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 
